@@ -72,7 +72,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20261029_utsunomiya/20261029_00015.jpeg) center/cover no-repeat;
+background:url(https://torokoid.github.io/20261030_utsunomiya/20261030_00024.jpeg) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -230,7 +230,7 @@ p.note { display: none; }
 <!-- オープニング（スプラッシュ画面に写真とタイトルを配置） -->
 <div id="splash">
   <div class="splash-content">
-    <img src="https://torokoid.github.io/20261030_utsunomiya/20261030_00024.jpeg" alt="オープニング画像">
+    <img src="https://torokoid.github.io/20261030_utsunomiya/20261030_00029.jpeg" alt="オープニング画像">
     <div class="splash-text">最初の一枚は鮮やかなシクラメンのお花</div>
   </div>
 </div>
