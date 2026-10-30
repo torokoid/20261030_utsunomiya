@@ -262,7 +262,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/10/30、公演とご近所のお花達から、ワンちゃん達とミスドのデザートまで !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/10/30、公園とご近所のお花達から、ワンちゃん達とミスドのデザートまで !!!</marquee></span></h1>
 
 
 <div class="space-extra-large"></div>
@@ -358,7 +358,7 @@ p.note { display: none; }
     </div>
 
 <br><br><br>
-<h2><span class="yellow">2026Oct30、公演とご近所のお花達から、ワンちゃん達とミスドのデザートまででした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026Oct30、公園とご近所のお花達から、ワンちゃん達とミスドのデザートまででした<br>Thank you for reading this far.</span></h2>
 
 <br><br><br>
 
