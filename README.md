@@ -352,9 +352,9 @@ p.note { display: none; }
 <br><br>
 <br><br>-->
 
-<h2><span class="yellow">今日のBGMは、Classic Country Music 🎧 The Best Timeless Hits of the 60s, 70s & 80s</span></h2>
+<h2><span class="yellow">今日のBGMは、うつろう日々｜いつものケルト音楽｜Relaxing Celtic Music｜癒しBGM　作業用BGM　リラックスBGM🍋</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jv02JMPJz7k?si=_WOAPO1MXWFm47-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09njf9-hThA?si=rA9svg6ivswZydFp&autoplay=1&mute=0&loop=1&playlist=09njf9-hThA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 <br><br><br>
